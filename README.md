@@ -98,4 +98,4 @@ Validate the HTML and CSS code.
 ![calc](https://user-images.githubusercontent.com/118343686/214816958-f9cbb518-8534-48ec-b473-78cf2a5958c4.png)
 
 ## Result:
-
+Thus the program is developed to create calculator
